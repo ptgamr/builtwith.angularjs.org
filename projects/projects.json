@@ -3688,6 +3688,21 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "SoundCloudify",
+      "thumb": "soundcloudify/thumb.png",
+      "desc": "Slick YouTube- and SoundCloud-powered music player for Chrome",
+      "url": "https://chrome.google.com/webstore/detail/soundcloudify/boblphpidkohagaoinepjgecndchlnbk",
+      "info": "http://soundcloudify.github.io",
+      "src": "https://github.com/ptgamr/soundcloudify",
+      "submitter": "Anh Trinh",
+      "submissionDate": "2012-05-30",
+      "tags": [
+        "Music", "Streaming", "YouTube", "SoundCloud",
+        "Chrome", "Extension", "AngularJS", "IndexedDb", "ReactJS",
+        "jQuery", "Open Source"
+      ]
     }
 
   ]
